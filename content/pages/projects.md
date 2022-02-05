@@ -26,17 +26,261 @@ The following instructions apply to executing R scripts in the first R Project. 
 
 Note: When you restart R-Studio, the application should open automatically with the same panel of open files.
 
-| SES # | PROJECT HTML FILES | R FILES |
-| --- | --- | --- |
-| L1 | [R Project 1: Distributions Derived from the Normal Distribution](/ans7870/18/18.443/s15/projects/Rproject1_script1.html) | [R Project 1 (ZIP)]({{< baseurl >}}/resources/rproject1) (This file contains: 1 .r file.) |
-| L5 |  {{< br >}}{{< br >}} [R Project 2: LeCam-Neyman Precipitation Data (MOM Estimation of Gamma)](/ans7870/18/18.443/s15/projects/Rproject2_script1_gamma_MOM.html) {{< br >}}{{< br >}} [R Project 2: LeCam-Neyman Precipitation Data (MOM with MLE)](/ans7870/18/18.443/s15/projects/Rproject2_script2_gamma_MOMwithMLE.html) {{< br >}}{{< br >}}  | [R Project 2 (ZIP)]({{< baseurl >}}/resources/rproject2) (This file contains: 2 .r files.) |
-| L6 |  {{< br >}}{{< br >}} R Project 3: Hardy Weinberg Model / Rayleigh Distributions {{< br >}}{{< br >}} [Maximum Likelihood Estimates of Multinomial Cell Probabilities](/ans7870/18/18.443/s15/projects/Rproject3_rmd_multinomial_theory.html) {{< br >}}{{< br >}} [ML and MOM Estimates of Rayleigh Distribution Parameter](/ans7870/18/18.443/s15/projects/Rproject3_rmd_rayleigh_theory.html) {{< br >}}{{< br >}} [Multinomial Simulation](/ans7870/18/18.443/s15/projects/Rproject3_script1_multinomial_simulation.html) {{< br >}}{{< br >}} [Poisson Prussian Cavalry](/ans7870/18/18.443/s15/projects/Rproject3_script3_Poisson_PrussianCavalry.html) {{< br >}}{{< br >}} [Chromatin](/ans7870/18/18.443/s15/projects/Rproject3_script4_Chromatin.html) {{< br >}}{{< br >}}  | [R Project 3 (ZIP)]({{< baseurl >}}/resources/rproject3) (This file contains: 3 .r files.) |
-| L8 |  {{< br >}}{{< br >}} R Project 4: Bayesian Estimation {{< br >}}{{< br >}} [Bayesian Hardy Weinberg](/ans7870/18/18.443/s15/projects/Rproject4_Bayesian_HardyWeinberg.html) {{< br >}}{{< br >}} [Bayesian Poisson](/ans7870/18/18.443/s15/projects/Rproject4_Bayesian_Poisson.html) {{< br >}}{{< br >}}  | [R Project 4 (ZIP)]({{< baseurl >}}/resources/rproject4) (This file contains: 2 .r files.) |
-| L9 |  {{< br >}}{{< br >}} [R Project 5: Hypothesis Testing](/ans7870/18/18.443/s15/projects/RProject5_HypothesisTesting.html) {{< br >}}{{< br >}} [Problem 9\_11\_1 and 6](/ans7870/18/18.443/s15/projects/Problem_9_11_1and6.html) {{< br >}}{{< br >}} [Problem 9\_11\_3](/ans7870/18/18.443/s15/projects/Problem_9_11_3.html) {{< br >}}{{< br >}} [Problem 9\_11\_7](/ans7870/18/18.443/s15/projects/Problem_9_11_7.html) {{< br >}}{{< br >}}  | [R Project 5 (ZIP)]({{< baseurl >}}/resources/rproject5) (This file contains: 4 .r files.) |
-| L10 |  {{< br >}}{{< br >}} R Project 6: Hypothesis Testing II {{< br >}}{{< br >}} [LRTest Hardy Weinberg](/ans7870/18/18.443/s15/projects/Rproject6_LRTest_HardyWeinberg.html) {{< br >}}{{< br >}} [LRTest Poisson](/ans7870/18/18.443/s15/projects/Rproject6_LRTest_Poisson.html) {{< br >}}{{< br >}}  | [R Project 6 (ZIP)]({{< baseurl >}}/resources/rproject6) (This file contains: 2 .r files.) |
-| L11 |  {{< br >}}{{< br >}} R Project 7: Assessing Goodness of Fit {{< br >}}{{< br >}} [Beeswax](/ans7870/18/18.443/s15/projects/Rproject7_5_beeswax.html) {{< br >}}{{< br >}} [Lifetimes](/ans7870/18/18.443/s15/projects/Rproject7_6_lifetimes.html) {{< br >}}{{< br >}}  | [R Project 7 (ZIP)]({{< baseurl >}}/resources/rproject7) (This file contains: 6 .r files.) |
-| L13 |  {{< br >}}{{< br >}} R Project 8: Summarizing Data {{< br >}}{{< br >}} [Problem 10\_9\_26](/ans7870/18/18.443/s15/projects/Problem_10_9_26.html) {{< br >}}{{< br >}} [Windspeed](/ans7870/18/18.443/s15/projects/Rproject8_1_windspeed.html) {{< br >}}{{< br >}} [ks\_test](/ans7870/18/18.443/s15/projects/Rproject8_2_ks_test.html) {{< br >}}{{< br >}} [Bootstrap Location](/ans7870/18/18.443/s15/projects/Rproject8_3_bootstrap_location.html) {{< br >}}{{< br >}} [Density](/ans7870/18/18.443/s15/projects/Rproject8_4_density.html) {{< br >}}{{< br >}}  | [R Project 8 (ZIP)]({{< baseurl >}}/resources/rproject8) (This file contains: 5 .r files.) |
-| L14 |  {{< br >}}{{< br >}} R Project 9: Regression Analysis of CAPM {{< br >}}{{< br >}} [FM Casestudy\_1\_0\_Download Data](/ans7870/18/18.443/s15/projects/fm_casestudy_1_0_DownloadData.html) {{< br >}}{{< br >}} [FM Casestudy\_1\_1\_CAPM](/ans7870/18/18.443/s15/projects/fm_casestudy_1_1_CAPM.html) {{< br >}}{{< br >}}  | [R Project 9 (ZIP)]({{< baseurl >}}/resources/rproject9) (This file contains: 2 .r files.) |
-| L15 |  {{< br >}}{{< br >}} R Project 10: Polynomial Regressions and Weighted Regressions {{< br >}}{{< br >}} [Problem 14\_9\_39](/ans7870/18/18.443/s15/projects/Problem_14_9_39.html) {{< br >}}{{< br >}} [Flow Occ Regressions](/ans7870/18/18.443/s15/projects/Rproject10_flow_occ_regressions.html) {{< br >}}{{< br >}}  | [R Project 10 (ZIP)]({{< baseurl >}}/resources/rproject10) (This file contains: 3 .r files.) |
-| L16 |  {{< br >}}{{< br >}} R Project 11: Multiple Comparisons and ANOVA {{< br >}}{{< br >}} [Tablets One Way Anova](/ans7870/18/18.443/s15/projects/Rproject11_Tablets_OneWayAnova.html) {{< br >}}{{< br >}} [Tablets Two Sample T](/ans7870/18/18.443/s15/projects/Rproject11_Tablets_TwoSampleT.html) {{< br >}}{{< br >}}  | [R Project 11 (ZIP)]({{< baseurl >}}/resources/rproject11) (This file contains: 2 .r files.) |
-| L17 |  {{< br >}}{{< br >}} [R Project 12: Chi-square Tests and Fisher's Exact Test](/ans7870/18/18.443/s15/projects/RProject12_ChisquareTest.html) {{< br >}}{{< br >}}  | [R Project 12 (ZIP)]({{< baseurl >}}/resources/rproject12) (This file contains: 2 .r files.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+PROJECT HTML FILES
+{{< thclose >}}
+{{< thopen >}}
+R FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 1: Distributions Derived from the Normal Distribution](/ans7870/18/18.443/s15/projects/Rproject1_script1.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 1 (ZIP)]({{< baseurl >}}/resources/rproject1) (This file contains: 1 .r file.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[R Project 2: LeCam-Neyman Precipitation Data (MOM Estimation of Gamma)](/ans7870/18/18.443/s15/projects/Rproject2_script1_gamma_MOM.html)
+
+[R Project 2: LeCam-Neyman Precipitation Data (MOM with MLE)](/ans7870/18/18.443/s15/projects/Rproject2_script2_gamma_MOMwithMLE.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 2 (ZIP)]({{< baseurl >}}/resources/rproject2) (This file contains: 2 .r files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R Project 3: Hardy Weinberg Model / Rayleigh Distributions
+
+[Maximum Likelihood Estimates of Multinomial Cell Probabilities](/ans7870/18/18.443/s15/projects/Rproject3_rmd_multinomial_theory.html)
+
+[ML and MOM Estimates of Rayleigh Distribution Parameter](/ans7870/18/18.443/s15/projects/Rproject3_rmd_rayleigh_theory.html)
+
+[Multinomial Simulation](/ans7870/18/18.443/s15/projects/Rproject3_script1_multinomial_simulation.html)
+
+[Poisson Prussian Cavalry](/ans7870/18/18.443/s15/projects/Rproject3_script3_Poisson_PrussianCavalry.html)
+
+[Chromatin](/ans7870/18/18.443/s15/projects/Rproject3_script4_Chromatin.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 3 (ZIP)]({{< baseurl >}}/resources/rproject3) (This file contains: 3 .r files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R Project 4: Bayesian Estimation
+
+[Bayesian Hardy Weinberg](/ans7870/18/18.443/s15/projects/Rproject4_Bayesian_HardyWeinberg.html)
+
+[Bayesian Poisson](/ans7870/18/18.443/s15/projects/Rproject4_Bayesian_Poisson.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 4 (ZIP)]({{< baseurl >}}/resources/rproject4) (This file contains: 2 .r files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[R Project 5: Hypothesis Testing](/ans7870/18/18.443/s15/projects/RProject5_HypothesisTesting.html)
+
+[Problem 9\_11\_1 and 6](/ans7870/18/18.443/s15/projects/Problem_9_11_1and6.html)
+
+[Problem 9\_11\_3](/ans7870/18/18.443/s15/projects/Problem_9_11_3.html)
+
+[Problem 9\_11\_7](/ans7870/18/18.443/s15/projects/Problem_9_11_7.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 5 (ZIP)]({{< baseurl >}}/resources/rproject5) (This file contains: 4 .r files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R Project 6: Hypothesis Testing II
+
+[LRTest Hardy Weinberg](/ans7870/18/18.443/s15/projects/Rproject6_LRTest_HardyWeinberg.html)
+
+[LRTest Poisson](/ans7870/18/18.443/s15/projects/Rproject6_LRTest_Poisson.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 6 (ZIP)]({{< baseurl >}}/resources/rproject6) (This file contains: 2 .r files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R Project 7: Assessing Goodness of Fit
+
+[Beeswax](/ans7870/18/18.443/s15/projects/Rproject7_5_beeswax.html)
+
+[Lifetimes](/ans7870/18/18.443/s15/projects/Rproject7_6_lifetimes.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 7 (ZIP)]({{< baseurl >}}/resources/rproject7) (This file contains: 6 .r files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R Project 8: Summarizing Data
+
+[Problem 10\_9\_26](/ans7870/18/18.443/s15/projects/Problem_10_9_26.html)
+
+[Windspeed](/ans7870/18/18.443/s15/projects/Rproject8_1_windspeed.html)
+
+[ks\_test](/ans7870/18/18.443/s15/projects/Rproject8_2_ks_test.html)
+
+[Bootstrap Location](/ans7870/18/18.443/s15/projects/Rproject8_3_bootstrap_location.html)
+
+[Density](/ans7870/18/18.443/s15/projects/Rproject8_4_density.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 8 (ZIP)]({{< baseurl >}}/resources/rproject8) (This file contains: 5 .r files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R Project 9: Regression Analysis of CAPM
+
+[FM Casestudy\_1\_0\_Download Data](/ans7870/18/18.443/s15/projects/fm_casestudy_1_0_DownloadData.html)
+
+[FM Casestudy\_1\_1\_CAPM](/ans7870/18/18.443/s15/projects/fm_casestudy_1_1_CAPM.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 9 (ZIP)]({{< baseurl >}}/resources/rproject9) (This file contains: 2 .r files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R Project 10: Polynomial Regressions and Weighted Regressions
+
+[Problem 14\_9\_39](/ans7870/18/18.443/s15/projects/Problem_14_9_39.html)
+
+[Flow Occ Regressions](/ans7870/18/18.443/s15/projects/Rproject10_flow_occ_regressions.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 10 (ZIP)]({{< baseurl >}}/resources/rproject10) (This file contains: 3 .r files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R Project 11: Multiple Comparisons and ANOVA
+
+[Tablets One Way Anova](/ans7870/18/18.443/s15/projects/Rproject11_Tablets_OneWayAnova.html)
+
+[Tablets Two Sample T](/ans7870/18/18.443/s15/projects/Rproject11_Tablets_TwoSampleT.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 11 (ZIP)]({{< baseurl >}}/resources/rproject11) (This file contains: 2 .r files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[R Project 12: Chi-square Tests and Fisher's Exact Test](/ans7870/18/18.443/s15/projects/RProject12_ChisquareTest.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[R Project 12 (ZIP)]({{< baseurl >}}/resources/rproject12) (This file contains: 2 .r files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

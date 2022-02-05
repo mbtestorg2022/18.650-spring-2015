@@ -13,28 +13,279 @@ R = Review
 
 E = Exam
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | Distributions Derived from Normal Distribution | &nbsp; |
-| L2 | Statistical Models: Classic One-sample Distribution Models | &nbsp; |
-| L3 | Parameter Estimation: Method of Moments | Problem Set 1 Due |
-| L4 | Parameter Estimation: Maximum Likelihood | Problem Set 2 Due |
-| L5 | Maximum Likelihood: Large Sample Theory | &nbsp; |
-| L6 | Bootstrap Confidence Intervals | Problem Set 3 Due |
-| L7 | Sufficiency | &nbsp; |
-| R1 || {{< td-colspan 2 >}}Exam 1 Review{{< /td-colspan >}} ||
-| E1 || {{< td-colspan 2 >}}Exam 1{{< /td-colspan >}} ||
-| L8 | Parameter Estimation: Bayesian Approach | Problem Set 4 Due |
-| L9 | Hypothesis Testing | Problem Set 5 Due (Extra Credit) |
-| L10 | Hypothesis Testing II | Problem Set 6 Due |
-| L11 | Assessing Goodness of Fit | Problem Set 7 Due |
-| R2 || {{< td-colspan 2 >}}Exam 2 Review{{< /td-colspan >}} ||
-| E2 || {{< td-colspan 2 >}}Exam 2{{< /td-colspan >}} ||
-| L12 | Summarizing Data | &nbsp; |
-| L13 | Summarizing Data: Examples and Dynamic Graphics | Problem Set 8 Due |
-| L14 | Regression Analysis | &nbsp; |
-| L15 | Regression Analysis II | Problem Set 9 Due |
-| R3 || {{< td-colspan 2 >}}Exam 3 Review{{< /td-colspan >}} ||
-| E3 || {{< td-colspan 2 >}}Exam 3{{< /td-colspan >}} ||
-| L16 | Comparing Independent Samples and ANOVA | &nbsp; |
-| L17 | Analysis of Categorical Data | Problem Set 10 Due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Distributions Derived from Normal Distribution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical Models: Classic One-sample Distribution Models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Parameter Estimation: Method of Moments
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Parameter Estimation: Maximum Likelihood
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Maximum Likelihood: Large Sample Theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Bootstrap Confidence Intervals
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Sufficiency
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Exam 1 Review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E1
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Exam 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Parameter Estimation: Bayesian Approach
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 4 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Hypothesis Testing
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 5 Due (Extra Credit)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Hypothesis Testing II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 6 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Assessing Goodness of Fit
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 7 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Exam 2 Review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E2
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Exam 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Summarizing Data
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Summarizing Data: Examples and Dynamic Graphics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 8 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Regression Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Regression Analysis II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 9 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Exam 3 Review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E3
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Exam 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Comparing Independent Samples and ANOVA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis of Categorical Data
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 10 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
